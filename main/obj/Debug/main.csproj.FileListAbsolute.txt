@@ -1,0 +1,18 @@
+M:\project\sample\main\main\bin\main.dll.config
+M:\project\sample\main\main\bin\main.dll
+M:\project\sample\main\main\bin\main.pdb
+M:\project\sample\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+M:\project\sample\main\main\obj\Debug\main.dll
+M:\project\sample\main\main\obj\Debug\main.pdb
+D:\main\main\bin\main.dll.config
+D:\main\main\bin\main.dll
+D:\main\main\bin\main.pdb
+D:\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+D:\main\main\obj\Debug\main.dll
+D:\main\main\obj\Debug\main.pdb
+M:\project\new proj\main\bin\main.dll.config
+M:\project\new proj\main\bin\main.dll
+M:\project\new proj\main\bin\main.pdb
+M:\project\new proj\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+M:\project\new proj\main\obj\Debug\main.dll
+M:\project\new proj\main\obj\Debug\main.pdb
